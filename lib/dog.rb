@@ -2,10 +2,10 @@
 class Dog 
   def initialize
     def bark
-      puts "woof!"
+      puts "Woof!"
     end
     
     def sit 
-      puts "the dog is sitting"
+      puts "The dog is sitting"
     end
   end
